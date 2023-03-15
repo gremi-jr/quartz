@@ -1,5 +1,7 @@
 ---
 title: "Zeitmanagement - Was wir von Computern lernen können"
+created: 15.03.2023
+enableToc: true
 ---
 
 Eines Abends bin ich auf [dieses Video](https://www.youtube.com/watch?v=iDbdXTMnOmE) gestoßen welches wunderbar erklärt was wir über das Thema Zeitmanagement von Computern lernen können. Ironischerweise wurde das Zeitmanagement des Computers von Menschen entwickelt.
