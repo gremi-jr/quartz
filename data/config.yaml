@@ -27,4 +27,4 @@ links:
   - link_name: GitHub
     link: https://github.com/gremi-jr
 favicon:
-  - { rel: "shortcut icon", href: "icon.png", type: "image/png" }
+  - { rel: "icon", href: "favicon.ico", type: "image/x-icon" }
