@@ -1,4 +1,4 @@
-baseURL = "https://gremi-jr.github.io/quartz/"
+baseURL = "https://wiki.timogremler.de/"
 languageCode = "en-us"
 relativeURLs = false
 disablePathToLower = true
