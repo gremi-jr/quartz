@@ -37,4 +37,4 @@ a & b & c
 $$
 
 ## RTL
-More information on configuring RTL languages like Arabic in the [config](notes/Quartz/config.md) page.
+More information on configuring RTL languages like Arabic in the [config](private/Quartz/config.md) page.
