@@ -26,3 +26,5 @@ links:
     link: https://linkedin.com/in/timo-gremler-7b38b0241
   - link_name: GitHub
     link: https://github.com/gremi-jr
+favicon:
+  - { rel: "shortcut icon", href: "icon.png", type: "image/png" }
