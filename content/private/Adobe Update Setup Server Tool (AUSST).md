@@ -1,4 +1,10 @@
-
+---
+title: "Adobe AUSST"
+tags:
+- Anleitung
+- Adobe
+- AUSST
+---
 ## Was ist AUSST?
 Durch das starke Standing von Adobe Produkten in vielen Unternehmen und schwacher Konkurenz sind Anwendungen wie Photoshop oder Illustrator aus den Umgebungen nicht mehr wegzudenken. 
 Ließt man allerdings ein wenig durch die Release Notes oder schaut man in den einschlägigen IT News Webseiten tauchen die Adobe Produkte immer mal wieder mit Sicherheitslücken auf. 
@@ -16,6 +22,18 @@ Der AUSST Server lädt zentral die Update von Adobe aus dem Internet auf einem z
 - Mehrsprachenfähig
 
 ## Anleitung
-
 ### IIS Server Vorbereitung
+#### Skript
+Zur IIS Vorbereitung kann folgendes Skript genutzt werden:
+ ```powershell {title="AUSST-IIS-Prep.ps1"}
+ <Insert Script>
+ ```
+
+Manuelle Schritte werden in dieser Anleitung gut erklärt: https://www.wsus.de/ausst/
+
 ### AUSST Synchronisation
+Nun Laden Sie die AUSST Anwendung aus der Adobe Admin Console herunter. 
+
+### Client Konfiguration
+#### Konfiguration erstellen
+#### Konfiguration verteilen
