@@ -19,7 +19,7 @@ Ich habe diese Anleitung öfters genutzt um in meiner Ausbildung mich mit dem AD
 	- min. 4 CPU Kerne
 - Windows 10 oder 11 Pro
 - Stabile Internetverbindung
-- [[notes/Installation einer VM unter Windows auf Basis von Hyper-V|Funktionierende Virtualisierungsumgebung]] 
+- [[notes/Anleitungen/Installation einer VM unter Windows auf Basis von Hyper-V|Funktionierende Virtualisierungsumgebung]] 
 
 ### Virtuelle Maschine Installation
 Installiere dir als erstes sowohl eine Windows 10 als auch eine Windows Server 2019 VM.
