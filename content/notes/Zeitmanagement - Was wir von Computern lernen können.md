@@ -1,6 +1,5 @@
 ---
-title: "Zeitmanagement - Was wir von Computern lernen können"
-created: 15.03.2023
+title: Zeitmanagement - Was wir von Computern lernen können
 enableToc: true
 ---
 
