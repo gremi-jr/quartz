@@ -5,7 +5,6 @@ tags:
   - Active Directory
   - Ausbildung
 ---
-
 ## Einleitung
 Diese Anleitung soll dabei helfen eine Test Active Directory Umgebung für Gruppenrichtlinien oder auch AD Gruppen und User zu erstellen. 
 Zielgruppe der Anleitung ist in erster Linie Auszubildende, welche sich mit einer AD Umgebung vertraut machen möchte ohne etwas "kaputt" zu machen. Allerdings kann ebenso jeder diese Anleitung zur Hilfe nutzen.
