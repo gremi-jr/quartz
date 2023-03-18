@@ -29,7 +29,7 @@ title: Über mich!
 	- M365
 	- SQL
 	- Reporting (Grafana)
-- **Durch den Einsatz eines [[notes/Homelab Stand 03-2023|Homeserver]] grundlegende Erfahrungen in den Bereichen:**
+- **Durch den Einsatz eines [[notes/Technik/Homelab Stand 03-2023|Homeserver]] grundlegende Erfahrungen in den Bereichen:**
 	- NAS (ZFS)
 	- Virtualisierung
 		- Proxmox
