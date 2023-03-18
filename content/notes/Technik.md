@@ -3,4 +3,4 @@ title: Technik
 ---
 
 # Homelab
-[[Homelab Stand 03-2023]]
+[[notes/Homelab Stand 03-2023]]
