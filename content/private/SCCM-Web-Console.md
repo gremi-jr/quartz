@@ -1,0 +1,2 @@
+- SCCM Web Console als Template in Github Erstellen
+- Maybe Docker Image?

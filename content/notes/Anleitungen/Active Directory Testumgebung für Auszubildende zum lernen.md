@@ -9,7 +9,7 @@ tags:
 Diese Anleitung soll dabei helfen eine Test Active Directory Umgebung für Gruppenrichtlinien oder auch AD Gruppen und User zu erstellen. 
 Zielgruppe der Anleitung ist in erster Linie Auszubildende, welche sich mit einer AD Umgebung vertraut machen möchte ohne etwas "kaputt" zu machen. Allerdings kann ebenso jeder diese Anleitung zur Hilfe nutzen.
 > [!Important] Achtung!
-> Bitte beachte das diese Anleitung keine Anleitung ist wie ein Active Directory nach Best Practices installiert in einer Firmenumgebung! Die Anleitung ist alleinig für Testzwecke gedacht!
+> Bitte beachte das dies **keine** Anleitung ist, wie ein Active Directory in einer Firmenumgebung nach Best Practices installiert wird! Die Anleitung ist alleinig für Testzwecke gedacht!
 
 Ich habe diese Anleitung öfters genutzt um in meiner Ausbildung mich mit dem AD vertraut zu machen. 
 
@@ -120,3 +120,5 @@ Nach dem ihr die Domäne konfiguriert habt sollen Gruppenrichtlinien (GPOs) erst
 - Eingehende Ping Anfragen in der Windows Firewall Aktivieren (// Stichwort ICMPv4)
 
 Im Anschluss soll für jede Abteilung ein zentraler Netzwerkordner, auf dem DC bereitgestellt werden. Die Benutzer erhalten den Zugriff über eine Benutzergruppe. Die IT Abteilung hat Zugriff auf jedem Ordner. Die Marketing und Einkauf Abteilung nur auf ihre eigenen.
+
+-> [[private/Musterlösung AD Testumgebung|Musterlösung]]
