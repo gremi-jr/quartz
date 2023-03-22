@@ -26,7 +26,7 @@ Der AUSST Server lädt zentral die Update von Adobe aus dem Internet auf einem z
 In dieser Anleitung wird auf einer separaten Partition/Festplatte mit dem **Laufwerksbuchstaben U** die komplette Konfiguration der Webseite sowie die Abspeicherung des Kontents erstellt. Dabei sind 500GB ausreichend. Es empfiehlt sich den Kontent des AUSST von der Systempartition zu trennen. 
 
 #### AUSST Executable
-Als erstes muss die namendgebende AUSST Executable heruntergeladen werden. Dazu muss das Adobe Adminportal unter [adminconsole.adobe.com](adminconsole.adobe.com) aufgerufen werden.
+Als erstes muss die namendgebende AUSST Executable heruntergeladen werden. Dazu muss das Adobe Adminportal unter [adminconsole.adobe.com](https://adminconsole.adobe.com) aufgerufen werden.
 Sobald sich erfolgreich mit den Unternehmensdaten angemeldet wurde, kann unter *Pakete > Tools* das "Adobe Update Server Setup Tool" als Windows Version heruntergeladen werden. 
 ![[notes/images/AUSST.png]]
 Dabei beinhaltet die ZIP Datei folgende Dateien. 
