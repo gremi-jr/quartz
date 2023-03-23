@@ -11,6 +11,7 @@ Hier findest du alles rund um [[notes/Technik/Technik]], [[notes/Anleitungen/Anl
 Mein Name ist [[notes/Timo Gremler]] und bin als IT Consultant mit dem Schwerpunkt der M365 Dienste bei einem IT Dienstleister tätig.
 
 ## Neue Blogeinträge
+- [[notes/Technik/Password Pepper]]
 - [[notes/Zeitmanagement - Was wir von Computern lernen können]]
 
 ## Themenbereiche
