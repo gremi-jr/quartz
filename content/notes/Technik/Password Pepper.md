@@ -12,6 +12,7 @@ Registriert man sich bei einer Webseite, so erstellt man in der Regel einen Benu
 >[!Example] Beispiel
 >1. Teil - Password: Qwddjt68uKF2934
 >2. Teil - Pepper: P3pP3R
+>
 >Vollständiges Password: Qwddjt68uKF2934**P3pP3R**
 
 Möchtet man sich Anmelden, kopiert man sich den ersten Teil des Passwortes aus dem Passwort-Manager und fügt ihn im Formular ein und erweitert es manuell um den Pepper Teil. 
