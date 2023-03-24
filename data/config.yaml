@@ -26,5 +26,7 @@ links:
     link: https://linkedin.com/in/timo-gremler-7b38b0241
   - link_name: GitHub
     link: https://github.com/gremi-jr
+  - link_name: Kontakt
+    link: mailto:wiki@web.gremi.xyz
 favicon:
   - { rel: "icon", href: "favicon.ico", type: "image/x-icon" }
