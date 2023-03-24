@@ -12,7 +12,7 @@ Jede Datei/Programm eines Levels besitzt nur Rechte im selben oder darunterliege
 Meistens laufen die Browser in Low oder Unstrusted Level damit, im Falle des Falls, Schadcode nur eingeschränkt zugriff hat.
 
 >[!INFO]
->Im Process Explorer von den [[Sysinternals]] Tools kann das Integritätslevel eingesehen werden.
+>Im Process Explorer von den [[notes/Technik/Windows/Sysinternals]] Tools kann das Integritätslevel eingesehen werden.
 
 ## Low
 Low hat sehr stark eingeschränkte Rechte worin die Datei oder das Programm lesen und schreiben darf.

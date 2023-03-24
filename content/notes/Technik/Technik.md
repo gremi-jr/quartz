@@ -7,6 +7,7 @@ title: Technik
 
 ## Windows
 - [[notes/Technik/Windows/Windows 10]]
+- [[notes/Technik/Windows/Sysinternals]]
 - [[notes/Technik/Windows/Windows Integrity Level]]
 - [[notes/Technik/Windows/Windows LAPS]]
 - [[notes/Technik/Windows/AppData]]
