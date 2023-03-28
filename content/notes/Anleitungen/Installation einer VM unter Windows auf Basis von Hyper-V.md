@@ -2,7 +2,8 @@
 title: Installation einer VM unter Windows auf Basis von Hyper-V
 ---
 ## Hyper-V Installation
-> [!NOTE]
+> [!INFO] Information!
+> 
 >Diese Anleitung beschreibt die Installation und Einrichtung von Hyper-V auf einem Windows 10 Pro Gerät.
 
 1. Um Hyper-V zu installieren muss zunächst das Feature aktiviert werden. Suche dazu in der Windows Suchleiste nach "Windows-Feature aktivieren oder deaktivieren" und öffne das Programm.  
@@ -31,7 +32,8 @@ Das Windows 11 ISO kann [hier](https://www.microsoft.com/en-us/software-download
 	![[notes/images/VM-Install-2.png]]
 
 4. Wähle "Generation 2" bei "Generation angeben"
-> [!NOTE]
+> [!Important] Achtung!
+> 
 > Generation 1 funktioniert grundsätzlich auch, kann allerdings zu inkompatibilitäten führen wenn man bspw. Windows 11 benutzen möchte. 
 
 	 ![[notes/images/VM-Install-3.png]]

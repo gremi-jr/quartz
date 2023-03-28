@@ -9,6 +9,7 @@ tags:
 Diese Anleitung soll dabei helfen eine Test Active Directory Umgebung für Gruppenrichtlinien oder auch AD Gruppen und User zu erstellen. 
 Zielgruppe der Anleitung ist in erster Linie Auszubildende, welche sich mit einer AD Umgebung vertraut machen möchte ohne etwas "kaputt" zu machen. Allerdings kann ebenso jeder diese Anleitung zur Hilfe nutzen.
 > [!Important] Achtung!
+> 
 > Bitte beachte das dies **keine** Anleitung ist, wie ein Active Directory in einer Firmenumgebung nach Best Practices installiert wird! Die Anleitung ist alleinig für Testzwecke gedacht!
 
 Ich habe diese Anleitung öfters genutzt um in meiner Ausbildung mich mit dem AD vertraut zu machen. 
@@ -24,6 +25,7 @@ Ich habe diese Anleitung öfters genutzt um in meiner Ausbildung mich mit dem AD
 ### Virtuelle Maschine Installation
 Installiere dir als erstes sowohl eine Windows 10 als auch eine Windows Server 2019 VM.
 > [!Important] Achtung!
+> 
 > Beachte das bei dem Windows Server die **Desktop Experience** und bei Windows 10/11 als zu installierende Version **Pro** auszuwählen.
 
 ## Active Directory Installation
@@ -82,7 +84,8 @@ Installiere dir als erstes sowohl eine Windows 10 als auch eine Windows Server 2
 
 Nachdem du dich angemeldet hast, kannst du bspw. das "Group Policy Management" nutzen um Gruppenrichtlinien zu erstellen. Unter "Active Directory Users and Computers" kannst du Benutzer- und Computerobjekte verwalten. 
 
-> [!Information] Information!
+> [!Information] Information statische IP!
+> 
 > Es ist ratsam eine statische IP für den Domain Server zu vergeben. Entweder im Netzwerkadapter auf dem Server oder auf deinem DHCP Server/Router.
 
 ## Client Domain Join

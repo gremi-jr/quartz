@@ -12,11 +12,11 @@ Mein Name ist [[notes/Timo Gremler]] und bin als IT Consultant mit dem Schwerpun
 
 ## Neue Blogeinträge
 - [[notes/Blog/Bionic Reading]]
-- [[notes/Technik/Password Pepper]]
+- [[notes/Technik/Security/Password Pepper]]
 - [[notes/Blog/Zeitmanagement - Was wir von Computern lernen können]]
 
 ## Themenbereiche
-- [[notes/Technik/Technik]]
+- [[notes/Technik/Technik|Technik]]
 - [[notes/Anleitungen/Anleitungen]]
 - [[Skripte]]
 - [[notes/Blog/Blog]]

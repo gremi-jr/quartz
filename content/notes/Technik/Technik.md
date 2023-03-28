@@ -2,10 +2,10 @@
 title: Technik
 ---
 ## Backup
-- [[private/Gickup]]
+- [[notes/Technik/Backup/Gickup| Gickup - Backup für GitHub, Gitea und co.]]
 
 ## Homelab
-- [[notes/Technik/Homelab Stand 03-2023]]
+- [[notes/Technik/Homelab/Homelab Stand 03-2023]]
 
 ## Windows
 - [[notes/Technik/Windows/Windows 10]]
@@ -26,4 +26,4 @@ title: Technik
 - [[notes/Technik/Windows/Windows User Account Control]]
 
 ## Security
-- [[notes/Technik/Password Pepper]]
+- [[notes/Technik/Security/Password Pepper]]

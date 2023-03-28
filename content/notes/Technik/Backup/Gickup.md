@@ -1,5 +1,5 @@
 ---
-title: "Gickup"
+title: "Gickup - Backup für GitHub, Gitea und co."
 tags:
 - Backup
 ---
@@ -7,7 +7,10 @@ tags:
 ## Einleitung
 [Gickup](https://github.com/cooperspencer/gickup) ist eine Möglichkeit ein Backup seiner Git Repositories zu erstellen. Dabei können Repositories von bspw. GitHub, GitLab, Gitea, oder auch Gogs gesichert werden. Dabei können die Repositories von Plattform zu Plattform synchronisiert werden. So habe ich meine Repositories von GitHub zu einer Self-Hosted Gitea Instanz gesichert. 
 In diesem Artikel wird kurz beschrieben, wie so etwas erreicht werden kann. 
-Dabei wird eine Debian VM genutzt worauf ebenfalls die Gitea Instanz läuft.
+
+>[!INFO] Voraussetzung!
+>
+> Vorausgesetzt wird eine funktionierende Gitea Instanz!
 
 ## Konfiguration
 
@@ -39,7 +42,7 @@ Testweise kann `gickup --version` ausgeführt werden. Ist alles korrekt konfigur
 
 ### Gickup YAML Konfiguration
 Zur Konfiguration welche Source und Destination Plattform genutzt werden soll, anders gesagt von wo nach wo die Repos gesichert werden sollen, wird eine YML Konfigurationsdatei genutzt welche in die Binary gefüttert werden muss. Dabei kann die Konfigurationsdatei wie folgt aussehen:
- ```yaml {title="gickup.yml"}
+ ```yaml {title="gickup-config.yml"}
  source:
   github:
     - token: ****************
@@ -59,3 +62,10 @@ Ein Token ist ebenfalls nur notwendig, wenn private Repositories gesichert werde
 Die Konfiguration der einzelnen Parameter kann in der Gickup Doku unter [diesem Link](https://cooperspencer.github.io/gickup-documentation/docs/configuration/) nachgeschlagen werden.
 
 ## Periodische Ausführung
+Wenn man nun möchte das bspw. jede Nacht  die neuesten Repositories gesichert werden, so kann man einfach im crontab folgende Zeile hinzufügen.
+Öffne den Contab via `contrab -e`.
+```bash
+0 2 * * * /root/gickup/gickup /root/gickup/gickup-config.yml >> /root/gickup/gickup-backup.log 2>&1
+```
+Dabei wird jede Nacht um 2 Uhr das Backup ausgeführt und **ein Log nach gickup-backup.log** geschrieben.
+
