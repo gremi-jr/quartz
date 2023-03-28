@@ -1,6 +1,8 @@
 ---
 title: Technik
 ---
+## Backup
+- [[private/Gickup]]
 
 ## Homelab
 - [[notes/Technik/Homelab Stand 03-2023]]
