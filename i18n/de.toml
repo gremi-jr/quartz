@@ -50,7 +50,7 @@ other = "Suchsymbol"
 other = "Symbol, um die Suche zu öffnen"
 
 [recent_notes]
-other = "Neuste Beiträge"
+other = "Zuletzt aktualisierte Beiträge"
 
 [first_3_notes]
 other = "Die ersten 3 {{ .notes }}"
