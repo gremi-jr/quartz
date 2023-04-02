@@ -1,5 +1,7 @@
 ---
 title: Homelab Stand 03-2023
+tags:
+- Technik
 ---
 
 ## NAS

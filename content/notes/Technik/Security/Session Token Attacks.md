@@ -1,5 +1,8 @@
 ---
 title: "Session Token Attacks"
+tags: 
+- Security
+- Technik
 ---
 Session-Token-Angriffe sind Cyberangriffe, die darauf abzielen, einen oder mehrere Session Tokens im Browser zu stehlen, um Zugang zu den Accounts der Opfer zu erlangen. Diese Art von Angriffen wird in letzter Zeit immer häufiger bei großen YouTube-Kanälen durchgeführt. Das aktuellste und wahrscheinlich bisher prominenteste Beispiel ist der Angriff auf den Kanal [LinusTechTips](https://www.youtube.com/watch?v=yGXaAWbzl5A).
 

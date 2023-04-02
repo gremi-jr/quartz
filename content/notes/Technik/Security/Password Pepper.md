@@ -2,6 +2,7 @@
 title: "Password Pepper"
 tags:
 - Security
+- Technik
 ---
 
 Password Peppering ist eine Methode seine Passwörter im einem Passwort-Manager besser abzusichern, um ihn als Single Point of Failure zu minimieren. Das Passwort wird in zwei Teile aufgeteilt. Dem Passwort und dem Pepper. Man speichert dabei nie beide Teile, sondern nur ein Teil. Der zweite Teil wird gemerkt oder separat gespeichert.

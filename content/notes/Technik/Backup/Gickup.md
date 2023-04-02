@@ -2,6 +2,7 @@
 title: "Gickup - Backup für GitHub, Gitea und co."
 tags:
 - Backup
+- Technik
 ---
 
 ## Einleitung
