@@ -36,8 +36,6 @@ Es gibt verschiedene Anbieter, welche DoH anbieten, unter anderem Google und Clo
 ![[notes/images/firefox_doh.png]]
 
 
-
-
 ---
 # References
 - https://www.cloudflare.com/learning/dns/dns-over-tls/
