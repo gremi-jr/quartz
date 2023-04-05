@@ -23,4 +23,4 @@ Mein Name ist [[notes/Timo Gremler]] und bin als IT Consultant mit dem Schwerpun
 - [[notes/Anleitungen/Anleitungen]]
 - [[Skripte]]
 - [[notes/Blog/Blog]]
-- [[notes/Persönliches Changelog]]
+- [[notes/Persoenliches Changelog|Persönliches Changelog]]
