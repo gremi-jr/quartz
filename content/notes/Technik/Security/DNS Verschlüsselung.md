@@ -2,6 +2,9 @@
 title: DoT und DoH? - DNS Verschlüsselung
 aliases: DoH, DoT
 date: 2023-04-05 13:08
+tags:
+- Security
+- Technik
 ---
 
 ## Warum DNS Verschlüsselung?
