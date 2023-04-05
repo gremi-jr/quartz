@@ -8,7 +8,7 @@ tags:
 ---
 
 ## Warum DNS Verschlüsselung?
-Standardmäßig sind DNS Anfragen unverschlüsselt, was es ermöglicht einem Angreifer oder dem Internet Provider mitzulesen, welche Webseiten besucht werden. Diese Daten können zum Profiling oder Werbezwecke genutzt, analysiert und verkauft werden.
+Standardmäßig sind DNS Anfragen unverschlüsselt, was es einem Angreifer oder dem Internet Provider ermöglicht mitzulesen, welche Webseiten besucht werden. Diese Daten können zum Profiling oder Werbezwecke genutzt, analysiert und verkauft werden.
 
 ## DNS over HTTPS
 DNS over HTTPS (DoH) ist eine Möglichkeit [[DNS]] Anfragen zu verschlüsseln. DoH ist die bessere Wahl für private Nutzungszwecke, da es durch den HTTP Traffic verschleiert wird. DoH Anfragen können außerdem nicht verhindert werden ohne nicht auch den gesamten Web Traffic zu blockieren.
