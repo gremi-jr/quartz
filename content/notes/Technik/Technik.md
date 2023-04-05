@@ -26,5 +26,6 @@ title: Technik
 - [[notes/Technik/Windows/Windows User Account Control]]
 
 ## Security
+- [[notes/Technik/Security/DNS Verschlüsselung]]
 - [[notes/Technik/Security/Session Token Attacks]]
 - [[notes/Technik/Security/Password Pepper]]

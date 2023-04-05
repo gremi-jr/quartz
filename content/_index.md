@@ -11,6 +11,7 @@ Hier findest du alles rund um [[notes/Technik/Technik]], [[notes/Anleitungen/Anl
 Mein Name ist [[notes/Timo Gremler]] und bin als IT Consultant mit dem Schwerpunkt der M365 Dienste bei einem IT Dienstleister tätig.
 
 ## Neue Blogeinträge
+- [[notes/Technik/Security/DNS Verschlüsselung]]
 - [[notes/Technik/Security/Session Token Attacks]]
 - [[notes/Anleitungen/PIM Local Administrator|Azure AD Joined Device Local Administrator - "Dieser Vorgang erfordert erhöhte Rechte"]]
 - [[notes/Blog/Bionic Reading]]
