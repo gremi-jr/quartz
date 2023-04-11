@@ -17,7 +17,7 @@ title: Technik
 - [[notes/Technik/Windows/Windows User Account Control]]
 - [[notes/Technik/Windows/Windows Updates]]
 - [[notes/Technik/Windows/Windows Share Berechtigungen]]
-- [[notes/Technik/Windows/Microsoft Link-Layer-Topology]]
+- [[notes/Technik/Windows/Microsoft Link-Layer-Topology Discovery]]
 - [[notes/Technik/Windows/Windows Access-based Enumaration]]
 - [[notes/Technik/Windows/Windows Assigned Access]]
 - [[notes/Technik/Windows/Windows File History]]
@@ -26,5 +26,6 @@ title: Technik
 - [[notes/Technik/Windows/Windows User Account Control]]
 
 ## Security
+- [[notes/Technik/Security/DNS Verschluesselung|DNS Verschlüsselung]]
 - [[notes/Technik/Security/Session Token Attacks]]
 - [[notes/Technik/Security/Password Pepper]]

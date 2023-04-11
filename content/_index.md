@@ -12,6 +12,7 @@ Mein Name ist [[notes/Timo Gremler]] und bin als IT Consultant mit dem Schwerpun
 
 ## Neue Blogeinträge
 - [[notes/Blog/Die PARA Methode]]
+- [[notes/Technik/Security/DNS Verschluesselung|DNS Verschlüsselung]]
 - [[notes/Technik/Security/Session Token Attacks]]
 - [[notes/Anleitungen/PIM Local Administrator|Azure AD Joined Device Local Administrator - "Dieser Vorgang erfordert erhöhte Rechte"]]
 - [[notes/Blog/Bionic Reading]]
@@ -23,4 +24,4 @@ Mein Name ist [[notes/Timo Gremler]] und bin als IT Consultant mit dem Schwerpun
 - [[notes/Anleitungen/Anleitungen]]
 - [[Skripte]]
 - [[notes/Blog/Blog]]
-- [[notes/Persönliches Changelog]]
+- [[notes/Persoenliches Changelog|Persönliches Changelog]]

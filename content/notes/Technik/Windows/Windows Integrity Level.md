@@ -6,17 +6,17 @@ tags:
 
 # Windows Integrity Level
 
-Windows Integrity Level beschreibt die Vertrauensstellung oder die Rechte eines Programmes oder eine Datei besitzt.
+Windows Integrity Level beschreibt die Vertrauensstellung oder die Rechte eines Programmes oder eine Datei.
 Dabei gibt es 4 verschiedene Level: Low, Medium, High, System.
-Jede Datei/Programm eines Levels besitzt nur Rechte im selben oder darunterliegenden Level. Bspw. darf ein Programm im Medium Integritätslevel auch auf die Dateien im Low Level zugreifen. 
-Meistens laufen die Browser in Low oder Unstrusted Level damit, im Falle des Falls, Schadcode nur eingeschränkt zugriff hat.
+Jede Datei/Programm eines Levels besitzt nur Rechte im selben oder darunterliegenden Level. So darf beispielsweise ein Programm im Medium Integritätslevel auch auf die Dateien im Low Level zugreifen. 
+Die Browser laufen meistens im Low oder Unstrusted Level damit, im Falle des Falls, Schadcode nur eingeschränkt Zugriff hat.
 
 >[!INFO]
 >Im Process Explorer von den [[notes/Technik/Windows/Sysinternals]] Tools kann das Integritätslevel eingesehen werden.
 
 ## Low
 Low hat sehr stark eingeschränkte Rechte worin die Datei oder das Programm lesen und schreiben darf.
-Nur der Status "Nicht Vertrauenswürdig" (Untrusted) hat weniger Rechte
+Nur der Status "Nicht Vertrauenswürdig" (Untrusted) hat weniger Rechte.
 
 ## Medium
 Auf dem Medium Level befinden sich die normalen Benutzerrechte.
