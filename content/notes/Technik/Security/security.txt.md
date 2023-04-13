@@ -1,4 +1,5 @@
 ---
+title: security.txt
 aliases:
 tags:
 - Security
