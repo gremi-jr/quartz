@@ -1,6 +1,6 @@
 ---
 title: robots.txt
-aliases:
+aliases: "robots.txt"
 tags: 
 - Technik
 date: 2023-04-13 20:17
