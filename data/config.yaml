@@ -21,6 +21,11 @@ description:
   Timo Gremler - explores the world of programming and computer science
 page_title:
   "🪴 Timo Gremler"
+# RESPONSIVE HEADER BUG
+# this works fine (centered)
+# page_title: "Brain"
+# and this not
+# page_title: "🪴 Quartz 3.3"
 links:
   - link_name: LinkedIn
     link: https://linkedin.com/in/timo-gremler-7b38b0241

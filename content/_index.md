@@ -5,10 +5,11 @@ enableToc: false
 
 # Willkommen in meinem Wiki!
 
-Hier findest du alles rund um [[notes/Technik/Technik]], [[notes/Anleitungen/Anleitungen]] und [[Skripte]] die ich als nützlich Empfunden haben!  
+Hier findest du alles rund um Technik, Anleitungen, Skripte und Notizen die ich über die Zeit als nützlich Empfunden haben!  
 
 ## Wer bin ich und was mache ich?
-Mein Name ist [[notes/Timo Gremler]] und bin als IT Consultant mit dem Schwerpunkt der M365 Dienste bei einem IT Dienstleister tätig.
+Mein Name ist [[Über mich!/Timo Gremler]], bin als IT Consultant mit dem Schwerpunkt der M365 Dienste bei einem IT Dienstleister tätig und Masterstudent.
+Nachdem ich mein Abitur 2018 beendet habe, öffnete sich wie für viele andere auch, ein neuer Lebensweg. Wohin die Richtung geht, konnte ich nur erahnen. Als ich mein duales Studium begonnen habe wuchs meine Leidenschaft für Technik. Seit dem beschäftige ich mich immer mehr mit Softwareentwicklung und allen Bereichen der Informatik.
 
 ## Neue Blogeinträge
 - [[notes/Blog/Die PARA Methode]]
@@ -20,8 +21,6 @@ Mein Name ist [[notes/Timo Gremler]] und bin als IT Consultant mit dem Schwerpun
 - [[notes/Blog/Zeitmanagement - Was wir von Computern lernen können]]
 
 ## Themenbereiche
-- [[notes/Technik/Technik|Technik]]
+- [[notes/Technik/Technik]]
 - [[notes/Anleitungen/Anleitungen]]
-- [[Skripte]]
 - [[notes/Blog/Blog]]
-- [[notes/Persoenliches Changelog|Persönliches Changelog]]

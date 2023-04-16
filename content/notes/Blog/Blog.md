@@ -1,5 +1,5 @@
 ---
-title: "Blog"
+title: MOC Blog
 ---
 
 - [[notes/Blog/Bionic Reading]]
