@@ -1,6 +1,7 @@
 ---
-title: Technik
+title: MOC Technik
 ---
+
 ## Backup
 - [[notes/Technik/Backup/Gickup| Gickup - Backup für GitHub, Gitea und co.]]
 
