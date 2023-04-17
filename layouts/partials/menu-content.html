@@ -1,3 +1,4 @@
+<h1 class="navbar-heading">Dateiverzeichnis</h1>
 {{/*  inspired by https://github.com/alex-shpak/hugo-book/blob/master/layouts/partials/docs/menu-filetree.html  */}}
 {{ $section := default "/" .Site.Params.BookSection  }}
 {{ if eq $section "*" }}
@@ -17,14 +18,14 @@
             <div class="a-wrapper">
               <div class="arrow"></div>
             </div>
-            <a href="{{ .Page.RelPermalink }}" class="title">
+            <a href="{{ .Page.RelPermalink }}" class="title" >
               {{- partial "title" .Page -}}
             </a>
           </div>
           {{ template "folder-children" (dict "Section" . "CurrentPage" $.CurrentPage) }}
         </li>
       {{ else if and .IsPage }}
-        <li>
+        <li class="navbar-item">
           {{ template "children-link" (dict "Page" . "CurrentPage" $.CurrentPage) }}
         </li>
       {{ end }}
